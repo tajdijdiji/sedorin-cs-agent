@@ -1,0 +1,6 @@
+workspace/**/*
+!workspace/**/.gitkeep
+!workspace/inbox/sample_messages.txt
+.env
+.DS_Store
+__pycache__/

@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(./**)",
+      "Edit(./workspace/**)",
+      "Bash(python3 scripts/cs.py:*)",
+      "Bash(python3 -m unittest:*)",
+      "Bash(date:*)",
+      "Bash(ls:*)",
+      "Bash(python3 ./scripts/cs.py:*)",
+      "Glob",
+      "Grep"
+    ],
+    "deny": [
+      "Bash(curl:*)",
+      "Bash(wget:*)",
+      "Bash(rm -rf:*)",
+      "Bash(git push:*)",
+      "Read(./.env)"
+    ]
+  }
+}

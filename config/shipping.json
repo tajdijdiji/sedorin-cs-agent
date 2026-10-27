@@ -1,0 +1,11 @@
+{
+  "_note": "メルカリ便ベースの送料（2026年10月時点の目安）。資材代は box に入れています。",
+  "mini":            {"label": "ゆうパケットポストmini", "fee": 160, "box": 0},
+  "nekopos":         {"label": "ネコポス",               "fee": 210, "box": 0},
+  "yupacket_post":   {"label": "ゆうパケットポスト",     "fee": 215, "box": 65},
+  "yupacket":        {"label": "ゆうパケット",           "fee": 230, "box": 0},
+  "compact":         {"label": "宅急便コンパクト",       "fee": 450, "box": 70},
+  "yupacket_plus":   {"label": "ゆうパケットプラス",     "fee": 455, "box": 65},
+  "size60":          {"label": "宅急便60",               "fee": 750, "box": 0},
+  "size80":          {"label": "宅急便80",               "fee": 870, "box": 0}
+}
