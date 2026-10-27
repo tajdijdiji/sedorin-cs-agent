@@ -14,7 +14,7 @@ claude --version
 ## 2. ダウンロード
 ```bash
 cd ~
-git clone https://github.com/<アカウント>/sedorin-cs-agent.git
+git clone https://github.com/tajdijdiji/sedorin-cs-agent.git
 cd sedorin-cs-agent
 python3 -m unittest discover -s tests     # OK と出れば準備完了
 ```

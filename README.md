@@ -42,7 +42,7 @@ flowchart LR
 ## 🚀 3分で試す
 
 ```bash
-git clone https://github.com/<アカウント>/sedorin-cs-agent.git
+git clone https://github.com/tajdijdiji/sedorin-cs-agent.git
 cd sedorin-cs-agent
 
 python3 scripts/cs.py floors                 # 商品ごとの値下げ下限
